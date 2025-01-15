@@ -288,6 +288,16 @@ li img{
     margin-left: 30px;
 }
 
+/* secao inscrições */
+.incriçoes {
+    background-color: #000618;
+    padding: 25px 10px;
+}
+
+.rodada {
+    gap: 35px;
+}
+
 /*secao quem */
 .secao--quem{
     background-image: url(https://static.vecteezy.com/system/resources/previews/022/696/180/non_2x/strategic-planning-and-leadership-chess-game-on-black-and-white-background-concept-of-business-showing-leadership-decision-making-brainstorming-with-copy-space-for-text-free-photo.jpg);
@@ -338,7 +348,7 @@ li img{
     display: flex;
     align-items: center;
     gap: 20px;
-    justify-content: flex-end;
+    justify-content: center;
 }
 
 .footer_links{
